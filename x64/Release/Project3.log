@@ -1,0 +1,14 @@
+﻿  Cropping.cpp
+  Difference.cpp
+C:\Users\Emil\source\repos\Project3\Difference.cpp(36,12): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Emil\source\repos\Project3\Difference.cpp(38,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lut.cpp
+  Source.cpp
+C:\Users\Emil\source\repos\Project3\Source.cpp(122,57): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Emil\source\repos\Project3\Source.cpp(136,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Emil\source\repos\Project3\Source.cpp(144,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода
+  All 221 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project3.vcxproj -> C:\Users\Emil\source\repos\Project3\x64\Release\Project3.exe

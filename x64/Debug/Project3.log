@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Emil\source\repos\Project3\Source.cpp(284,20): warning C4244: инициализация: преобразование "_Tp" в "int", возможна потеря данных
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\Emil\source\repos\Project3\Source.cpp(294,42): warning C4244: *=: преобразование "double" в "uchar", возможна потеря данных
+  Project3.vcxproj -> C:\Users\Emil\source\repos\Project3\x64\Debug\Project3.exe
